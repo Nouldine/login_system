@@ -1,0 +1,17 @@
+{
+    "name" : "phpmailer/phpmailer",
+    "type" : "library",
+    "description": "PHPMailer is a full-featured email creation and transfer class for PHP",
+    "require": {
+        "phpmailer/phpmailer": "^6.0"
+    },
+
+    "autoload" :{
+
+        "classmap": [
+            
+
+            "classes"
+        ]
+    }
+}
